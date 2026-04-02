@@ -25,6 +25,7 @@
 ### 1.2 File Formats
 
 **Rating Data** (`domain1_5.json.gz`):
+- Amazon Review and meta data: https://nijianmo.github.io/amazon/index.html
 - Gzip-compressed JSON lines
 - Fields per line: `reviewerID` (user ID), `asin` (item ID), `overall` (rating 1-5)
 
